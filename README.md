@@ -46,9 +46,9 @@ The following step is to log into OsTicket as the default administrator. After d
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/Vmpdshv.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Last but not least, I would log out of the administrator account and enter into the standard Agent account to view the ticket that was issued. I would then click the ticket that had been assigned to me to view any revisions made by the administrator, after which I might try to approach the situation differently and try to solve the issue for the client.
 </p>
 <br />
